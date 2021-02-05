@@ -1,4 +1,3 @@
-# Dice App #
 TDD practice on a dice-app.
 
 ## User Stories ##
