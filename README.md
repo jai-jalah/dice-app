@@ -1,4 +1,4 @@
-## TDD practice on a dice-app. ##
+## TDD practice on a dice-app ##
 
 ## User Stories ##
 ```
